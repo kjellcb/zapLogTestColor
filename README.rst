@@ -10,4 +10,4 @@ Regular
 Configured
 ----------
 
-.. image:: zap.Log.Configured.png
+.. image:: zapLogConfigured.png
